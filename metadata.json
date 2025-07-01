@@ -1,0 +1,6 @@
+{
+  "name": "social_pulse",
+  "description": "An AI-powered web application for real-time Sentiment Analysis on social media content. It helps marketing teams track and analyze public sentiment, providing dashboards with sentiment trends, keywords, and emotional tone.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
